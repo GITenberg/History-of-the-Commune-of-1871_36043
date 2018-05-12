@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38052
     wikipedia: http://fr.wikipedia.org/wiki/Prosper-Olivier_Lissagaray
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36043#History-of-the-Commune-of-1871
 gutenberg_issued: '2011-05-06'
 gutenberg_type: Text
 identifiers:
