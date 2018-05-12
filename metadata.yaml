@@ -1,0 +1,43 @@
+_repo: History-of-the-Commune-of-1871_36043
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Aveling, Eleanor Marx
+    aliases:
+    - Marx, Tussy
+    - Marx-Aveling, Eleanor
+    - Eveling, Eleonora Marks
+    - Marx, Eleanor
+    birthdate: 1855
+    deathdate: 1898
+    gutenberg_agent_id: '902'
+    url: http://www.gutenberg.org/2009/agents/902
+    wikipedia: http://en.wikipedia.org/wiki/Eleanor_Marx
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lissagaray
+    aliases:
+    - Lissagaray, Prosper Olivier
+    - Lissagaray, Hippolyte Prosper Olivier
+    birthdate: 1838
+    deathdate: 1901
+    gutenberg_agent_id: '38052'
+    url: http://www.gutenberg.org/2009/agents/38052
+    wikipedia: http://fr.wikipedia.org/wiki/Prosper-Olivier_Lissagaray
+description: ''
+gutenberg_issued: '2011-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36043'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Paris (France) -- History -- Commune, 1871'
+title: History of the Commune of 1871
+url: http://www.gutenberg.org/ebooks/36043
